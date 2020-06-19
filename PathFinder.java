@@ -126,6 +126,7 @@ public class PathFinder
                 }
 
                 System.out.println("Finished!");
+                break;
 
             }
 
